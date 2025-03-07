@@ -22,7 +22,7 @@ Program to implement the linear regression using gradient descent.
 Developed by: TARANIKKA A
 RegisterNumber: 212223220115 
 */
-```
+
 import numpy as np
  import pandas as pd
  from sklearn.preprocessing import StandardScaler
@@ -50,7 +50,7 @@ import numpy as np
  pre=scaler.inverse_transform(prediction)
  print(f"Predicted value: {pre}")
 
-
+```
 ## Output:
 
 ![Uploading ml3.png…]()
