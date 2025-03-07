@@ -53,7 +53,8 @@ import numpy as np
 ```
 ## Output:
 
-![Uploading ml3.png…]()
+![ml3](https://github.com/user-attachments/assets/5b349042-8fc4-405c-bfa5-f5a2e0e58369)
+
 
   
 
